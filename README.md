@@ -21,11 +21,11 @@
 
 ## 👨‍💻 About Me
 
-> *"I build the whole thing: the database, the logic, and the everything you click on."*
+> *"I build the whole thing: everything you click on."*
 
-- 🎓 Final-year **CSE** student at **AIUB** (Information Systems major), graduating **Fall 2026** · CGPA **3.64 / 4.00**
+- 🎓 Final-year **CSE** student at **AIUB** (Information Systems major), graduating **Fall 2026** 
 - 🧱 Full stack developer, comfortable from **schema design → backend logic → UI → deployment**
-- 🔬 Co-author on **2 research papers** (Bangla NLP dataset, fraud detection with explainable ML), both submitted
+- 🔬 research papers** (Bangla NLP dataset, fraud detection with explainable ML)
 - 🌱 Currently leveling up with **Next.js, React & Node.js** through a full-stack course
 - 🎯 Looking for **internship / junior full stack or ML-engineering** opportunities
 
