@@ -1,12 +1,7 @@
 <!-- ============ HEADER (animated wave) ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jahidul%20Islam%20Shakib&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20ML%20%26%20NLP%20Researcher&descSize=18&descAlignY=58" width="100%" alt="header"/>
-
-<!-- ============ TYPING ANIMATION ============ -->
-<a href="https://github.com/ji-shakib">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Hi+there%2C+I'm+Shakib+%F0%9F%91%8B;Full+Stack+Developer+%7C+PHP+%C2%B7+C%23+%C2%B7+JavaScript+%C2%B7+MySQL;I+turn+messy+data+into+working+software;Researching+Bangla+NLP+%26+explainable+ML;Open+to+internships+%26+junior+roles+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/ji-shakib/ji-shakib/main/header.svg" width="100%" alt="Jahidul Islam Shakib - Full Stack Developer"/>
 
 <br/>
 
@@ -26,12 +21,13 @@
 
 ## 👨‍💻 About Me
 
-> *"I build the whole thing: the database, the logic, and the page you click on."*
+> *"I build the whole thing: the database, the logic, and the everything you click on."*
 
-- 🎓 Final-year **CSE** student at **AIUB** (Information Systems major), graduating **Fall 2026** ·
+- 🎓 Final-year **CSE** student at **AIUB** (Information Systems major), graduating **Fall 2026** · CGPA **3.64 / 4.00**
 - 🧱 Full stack developer, comfortable from **schema design → backend logic → UI → deployment**
-- 🔬 research papers** (Bangla NLP dataset, fraud detection with explainable ML)
+- 🔬 Co-author on **2 research papers** (Bangla NLP dataset, fraud detection with explainable ML), both submitted
 - 🌱 Currently leveling up with **Next.js, React & Node.js** through a full-stack course
+- 🎯 Looking for **internship / junior full stack or ML-engineering** opportunities
 
 ---
 
@@ -158,6 +154,6 @@ I'm open to **internships, junior roles and research collaborations**. If you're
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/ji-shakib/ji-shakib/main/footer.svg" width="100%" alt="footer"/>
 
 </div>
