@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-> *"I build the whole thing: everything you click on."*
+> *" everything you click on."*
 
 - 🎓 Final-year **CSE** student at **AIUB** (Information Systems major), graduating **Fall 2026** 
 - 🧱 Full stack developer, comfortable from **schema design → backend logic → UI → deployment**
